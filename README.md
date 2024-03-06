@@ -1,4 +1,4 @@
-**Jose Ricardo Vasquez Vega**
+**Jose Ricardo Vasquez Vega**\
 **Maria Valentina Torres Monsalve**
 
 # Getting Started with Create React App
